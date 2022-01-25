@@ -146,7 +146,7 @@ const Dashboard = () => (
                   <div className="level">
                     <a
                       className="level-item over"
-                      href="https://github.com/eriika19/MEX-Data-Lovers-008"
+                      href="https://github.com/IamPixelMx/MEX-Data-Lovers-008"
                       target="_blank">
                       <button className="button is-inverted is-outlined is-link subtitle is-6">
                         GitHub
@@ -154,7 +154,7 @@ const Dashboard = () => (
                     </a>
                     <a
                       className="level-item"
-                      href="https://eriika19.github.io/MEX-Data-Lovers-008/src/"
+                      href="https://IamPixelMx.github.io/MEX-Data-Lovers-008/src/"
                       target="_blank">
                       <button className="button is-inverted is-outlined is-info subtitle is-6">
                         Abrir Demo

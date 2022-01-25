@@ -17,7 +17,7 @@
       "thumbnail": "GitHub-Match",
       "src": "/assets/github-match.png",
       "type": "Browser for GitHub API ",
-      "github": "https://github.com/eriika19/GitHubMatch",
+      "github": "https://github.com/IamPixelMx/GitHubMatch",
       "demo": "https://git-hub-match.now.sh/",
       "label": ["Ir a repositorio GitHub", "Abrir Demo"]
     },
@@ -36,8 +36,8 @@
       "thumbnail": "Links",
       "src": "/assets/md_links.jpg",
       "type": "Librería Node.js",
-      "github": "https://github.com/eriika19/md-links",
-      "demo": "https://github.com/eriika19/md-links#demo",
+      "github": "https://github.com/IamPixelMx/md-links",
+      "demo": "https://github.com/IamPixelMx/md-links#demo",
       "label": ["Ir a repositorio GitHub", "Abrir Demo"]
     },
     {
@@ -59,8 +59,8 @@
       "thumbnail": "Sacbé",
       "src": "/assets/sacbe.png",
       "type": "red social",
-      "github": "https://github.com/eriika19/MEX008-social-network",
-      "demo": "https://eriika19.github.io/MEX008-social-network/src/",
+      "github": "https://github.com/IamPixelMx/MEX008-social-network",
+      "demo": "https://IamPixelMx.github.io/MEX008-social-network/src/",
       "label": ["Ir a repositorio GitHub", "Abrir Demo"]
     },
     {
@@ -75,8 +75,8 @@
       "thumbnail": "SmartSpend",
       "src": "/assets/smart_spend.png",
       "type": "fintech app",
-      "github": "https://github.com/eriika19/MEX008-hackathon-Interna-SF",
-      "demo": "https://eriika19.github.io/MEX008-hackathon-Interna-SF/src/",
+      "github": "https://github.com/IamPixelMx/MEX008-hackathon-Interna-SF",
+      "demo": "https://IamPixelMx.github.io/MEX008-hackathon-Interna-SF/src/",
       "label": ["Ir a repositorio GitHub", "Abrir Demo"]
     },
     {
@@ -95,8 +95,8 @@
       "thumbnail": "Steam",
       "src": "/assets/steam_desktop.png",
       "type": "news web app",
-      "github": "https://github.com/eriika19/MEX-Data-Lovers-008",
-      "demo": "https://eriika19.github.io/MEX-Data-Lovers-008/src/",
+      "github": "https://github.com/IamPixelMx/MEX-Data-Lovers-008",
+      "demo": "https://IamPixelMx.github.io/MEX-Data-Lovers-008/src/",
       "label": ["Ir a repositorio GitHub", "Abrir Demo"]
     },
     {
@@ -116,8 +116,8 @@
       "thumbnail": "Mesereando",
       "src": "/assets/mesereando.png",
       "type": "PWA",
-      "github": "https://github.com/eriika19/MEX008-FE-Burger-Queen",
-      "demo": "https://eriika19.github.io/MEX008-FE-Burger-Queen",
+      "github": "https://github.com/IamPixelMx/MEX008-FE-Burger-Queen",
+      "demo": "https://IamPixelMx.github.io/MEX008-FE-Burger-Queen",
       "label": ["Ir a repositorio GitHub", "Abrir Demo"]
     },
     {
@@ -136,7 +136,7 @@
       "thumbnail": "Wanna-taco",
       "src": "/assets/wanna-taco.png",
       "type": "Browser for restaurants API and interactive map",
-      "github": "https://github.com/eriika19/wanna-taco",
+      "github": "https://github.com/IamPixelMx/wanna-taco",
       "demo": "https://wanna-taco.now.sh/",
       "label": ["Ir a repositorio GitHub", "Abrir Demo"]
     }

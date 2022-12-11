@@ -28,7 +28,7 @@
     "courier-js": "^2.0.8",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "forever-agent": "^0.6.1",
     "hover.css": "^2.3.2",
     "html-webpack-plugin": "^3.2.0",
